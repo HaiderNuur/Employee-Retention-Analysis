@@ -27,3 +27,5 @@ I used Jupyter Notebook to code in Python. I completed the project in 4 steps:
 2.  Analysis of variables, 
 3. Building Machine Learning Models
 4. Evaluation, Summarize results and Recommendations.
+
+**Detailed report** Here, I put every step of solving this business problem into words so that anyone can read and understand the process: https://dataenthusiastic.com/employee-retention-analysis/ 
